@@ -4,6 +4,9 @@
 
 Welcome to the iAM.AMR project's GitHub!
 
+The [Team Repo](https://github.com/iAM-AMR/team).
+
+
 ## First Time?
 
 If it's your first time here, welcome! This is the iAM.AMR project's GitHub, and you're reading the README of the **start_here** repo. If none of that made sense to you, you're in the right place. 
