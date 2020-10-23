@@ -8,18 +8,6 @@
 
 This document describes how we share information in the iAM.AMR project.
 
-- Summary
-- Purpose 
-- TLP
-  - about
-  - use
-    - shre you
-    - shre
-  - badges
-- Beyond the TLP 
-
-
-
 - [Summary](#summary)
 - [Purpose](#purpose)
 - [Traffic Light Protocol (TLP)](#tlp)
