@@ -7,14 +7,10 @@
 
 This README acts as a public landing page for the iAM.AMR project's new collaborators and visitors.
 
-### [About the iAM.AMR Project](https://goto.iam.amr.pub/docs)
-
-### [GitHub Directory - for the public](dir_pub.md)
-
-### [GitHub Directory - for our Team](#to_do)
+### [About](https://goto.iam.amr.pub/docs) | [Public Links](dir_pub.md) | [All Links](#to-do)
 
 
-## Who are you?
+### Getting Started
 
 Is this your [first time using GitHub](github.md)?
 
