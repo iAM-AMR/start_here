@@ -1,36 +1,30 @@
 
-
-# Welcome
-
-Welcome to the iAM.AMR project's GitHub!
-
-The [Team Repo](https://github.com/iAM-AMR/team).
+[![TLP White Level Badge](https://img.shields.io/badge/TLP-WHITE-lightgrey)](sharing.md)
 
 
-## First Time?
+# Welcome to the iAM.AMR Project!
 
-If it's your first time here, welcome! This is the iAM.AMR project's GitHub, and you're reading the README of the **start_here** repo. If none of that made sense to you, you're in the right place. 
+This README acts as the landing page for a *public* repository (*start_here*), for new collaborators and visitors.
 
+Are you a [new collaborator](dir_collaborators.md)?
 
-## A Brief Introduction to GitHub
+Are you a [visitor](dir_visitors.md)?
 
-### Navigation
-
-- readmes are shown automatically for the first two levels
-- the crumb at the top will take you back to the main iAM.AMR page
-- repos are like folders (sorted by activity)
+Is this your first time using GitHub?
 
 
+## About the iAM.AMR Project
 
-### Downloading Files
+The iAM.AMR project is awesome.
 
-- Use the big green button
-- In some cases, download releases (we should use a badge for this! not a live one, but a static one)
-
+- most of the iAM.AMR project is described in the [documentation](https://goto.iam.amr.pub/docs)
+- the code, models, and data are kept here, in GitHub
 
 
 ## Directory
 
+The links below connect you to a variety of public and private resources: learn about information sharing [here](sharing.md).
+
+- The [Team Repo](https://github.com/iAM-AMR/team).
 - [Documentation](https://goto.iam.amr.pub/docs)
-- link to each repo with a description (maybe in table format?)
-  - should it just be the description in GitHub?
+- link to each repo with a description 
