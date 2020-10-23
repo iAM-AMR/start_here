@@ -4,9 +4,11 @@
 
 # For New Team Members
 
-## [Access iAM.AMR/team](https://github.com/iAM-AMR/team)
+### [Access iAM.AMR/team](https://github.com/iAM-AMR/team)
 
-## [Access iAM.AMR/team](https://github.com/iAM-AMR/team) doesn't work for me
+### [Access iAM.AMR/team](https://github.com/iAM-AMR/team) doesn't work for me ...
+
+I'm seeing a 404 page:
 
 - the iAM.AMR/team repo is only accessible to collaborators
   - you must create a GitHub account, and request access from @chapb
