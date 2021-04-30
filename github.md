@@ -31,9 +31,7 @@ One of the best places to start is the [iAM.AMR Organization](https://github.com
 
 ### Downloading Files
 
-A **release** is a snapshot of a repository at a specific, notable moment in time, usually after new features are added and ready for general consumption.
-
-You should always check the repo for a recent release where available, as it may be the most stable version of the repo's contents.
+A **release** is a snapshot of a repository at a specific, notable moment in time, usually after new features are added and ready for general consumption. You should always check the repo for a recent release where available, as it may be the most stable version of the repo's contents.
 
 #### Download Directly
 
@@ -42,47 +40,5 @@ The simplest way to get started is to download the entire repository as a ZIP fi
 #### Clone
 
 Use a GitHub Desktop client (like [GitHub Desktop](https://docs.iam.amr.pub/en/latest/09_technology/git.html) or [Source Tree](https://www.sourcetreeapp.com/)).
-
-
-
-
-To download files:
-
-- download the latest **release**
-- use the BIG GREEN BUTTON
-- clone the repo to your computer
-
- **Always Check for a Release.** 
-
-
-- readmes are shown automatically for the first two levels
-- repos are like folders (sorted by activity)
-
-### Downloading Files
-
-- Use the big green button
-- In some cases, download releases (we should use a badge for this! not a live one, but a static one)
-
-
-
-
-
-
-
-
-
-
-
-## Get
-
-
-
-
-### Download as ZIP
-
-
-
-Unzip and extract the contents to run the models.
-
 
 
